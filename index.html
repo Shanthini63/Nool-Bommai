@@ -30,10 +30,10 @@
       position: sticky; top: 0; z-index: 10; background: rgba(255,252,245,.94);
       backdrop-filter: blur(12px); border-bottom: 1px solid rgba(90,46,53,.10);
     }
-    .nav { max-width: 1180px; margin: auto; padding: 14px 22px; display: flex; align-items: center; justify-content: space-between; gap: 20px; }
+    .nav { max-width: 1180px; margin: auto; padding: 4px 22px; min-height: 45px; display: flex; align-items: center; justify-content: space-between; gap: 16px; }
     .brand { text-decoration: none; color: var(--burgundy); font-family: Georgia, serif; font-size: 1.55rem; font-weight: bold; line-height: 1.1; }
     .brand small { display: block; font: .65rem "Trebuchet MS", sans-serif; letter-spacing: .16em; text-transform: uppercase; margin-top: 5px; }
-    .brand-logo { display: block; width: 220px; max-width: 42vw; height: auto; object-fit: contain; mix-blend-mode: multiply; }
+    .brand-logo { display: block; width: 100px; height: 100px; object-fit: cover; object-position: center;  border-radius: 50%; border: 3px solid var(--cream); background: var(--cream); box-shadow: 0 3px 10px rgba(90, 46, 53, 0.14); }
     nav { display: flex; align-items: center; gap: 22px; }
     nav a { text-decoration: none; font-size: .94rem; font-weight: 700; }
     nav a:hover { color: #9A5965; }
@@ -100,7 +100,7 @@
     @media (max-width: 520px) {
       .nav { padding: 13px 16px; }
       .brand { font-size: 1.25rem; }
-      .brand-logo { width: 170px; max-width: 46vw; }
+      .brand-logo { width: 72px; height: 72px; }
       .grid, .steps { grid-template-columns: 1fr; }
       .product img { height: 280px; }
       .section { padding: 48px 16px; }
