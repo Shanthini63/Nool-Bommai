@@ -1,0 +1,95 @@
+{
+  "products": [
+    {
+      "id": "sunflower-daisy-bouquet",
+      "name": "Sunflower Daisy Bouquet",
+      "category": "flowers",
+      "price": 1500,
+      "currency": "₹"
+    },
+    {
+      "id": "single-sunflower",
+      "name": "Single Sunflower",
+      "category": "flowers",
+      "price": 500,
+      "currency": "₹"
+    },
+    {
+      "id": "flower-basket",
+      "name": "Flower Basket",
+      "category": "flowers",
+      "price": 300,
+      "currency": "₹"
+    },
+    {
+      "id": "mang-jhope",
+      "name": "Mang & J-Hope",
+      "category": "dolls",
+      "price": 350,
+      "currency": "₹"
+    },
+    {
+      "id": "panda-plushie",
+      "name": "Panda Plushie",
+      "category": "dolls",
+      "price": 250,
+      "currency": "₹"
+    },
+    {
+      "id": "jellyfish-plushie",
+      "name": "Jellyfish Plushie",
+      "category": "dolls",
+      "price": 250,
+      "currency": "₹"
+    },
+    {
+      "id": "mush-buddy",
+      "name": "Mush Buddy",
+      "category": "dolls",
+      "price": 160,
+      "currency": "₹"
+    },
+    {
+      "id": "3d-flower-bag",
+      "name": "3D Flower Bag",
+      "category": "accessories",
+      "price": 1800,
+      "currency": "₹"
+    },
+    {
+      "id": "dog-wall-hanging",
+      "name": "Dog Wall Hanging",
+      "category": "accessories",
+      "price": 800,
+      "currency": "₹"
+    },
+    {
+      "id": "spiderman-figure",
+      "name": "Spiderman Figure",
+      "category": "custom",
+      "price": 360,
+      "currency": "₹"
+    },
+    {
+      "id": "bubble-pot",
+      "name": "Bubble Pot",
+      "category": "custom",
+      "price": 485,
+      "currency": "₹"
+    },
+    {
+      "id": "heart-cactus",
+      "name": "Heart Cactus",
+      "category": "custom",
+      "price": 180,
+      "currency": "₹"
+    },
+    {
+      "id": "kookie",
+      "name": "Kookie",
+      "category": "custom",
+      "price": 600,
+      "currency": "₹"
+    }
+  ]
+}
